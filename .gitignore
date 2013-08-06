@@ -1,0 +1,16 @@
+# python
+*.pyc
+
+# output
+*.jpg
+*.html
+
+# swap files
+*.swp
+
+# bat files
+*.bat
+
+# project files
+.idea/
+
