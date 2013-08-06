@@ -1,4 +1,4 @@
-courseSelection
+CourseSelection
 ==========
 
 by Ryan, 8/6/2013
@@ -38,7 +38,7 @@ How To Use
 
     python setup.py py2exe
 
-然后把 `attribute_code.txt` 放到dist文件夹内，dist即是一个可发行版本， `CourseSelection.exe` 为程序本体。
+然后把 `attribute_codes.txt` 放到dist文件夹内，dist即是一个可发行版本， `CourseSelection.exe` 为程序本体。
 
 Files Structure
 ----------
